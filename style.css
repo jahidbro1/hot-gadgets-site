@@ -1,0 +1,86 @@
+.container{
+    padding: 50px;
+    
+}
+
+.card{
+    width: 200px;
+    border-radius:10px;
+    text-align: center;
+    box-shadow: 5px 5px 10px lightgray;
+    border: none;
+   
+    
+    
+}
+
+.btn-link{
+    color: #ffbf00;
+   font-size: larger;
+}
+
+.btn-link:hover{
+    text-decoration: none;
+    color: aqua;
+}
+.bton{
+    border: none;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+
+    
+}
+.cat1{
+    float: right;
+}
+.cat1 img{
+    
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: 80px;
+
+}
+.cat2{
+    position: absolute;
+    left: 300px;
+   width: 700px;
+   
+ 
+  
+    
+}
+
+.cat2 img{
+    
+    width: 60px;
+    height: 60px;
+}
+
+.shose{
+    position: relative;
+    left: 100px;
+}
+.perfume{
+    position: relative;
+    top: 2px;
+    right: 40px;
+}
+
+.cat{
+    text-decoration: underline rgba(187, 255, 0, 0.786);
+}
+
+
+.footer{
+    text-align: center;
+}
+
+.foot{
+    position: relative;
+  top: 500px;
+  left: 300px;
+  
+}
